@@ -1,1 +1,35 @@
+body{
+  background-color: skyblue;
+}
 
+h1{
+  color: blue; font-size: 50px;
+}
+
+
+img:hover{
+  background-color: gold;
+}
+
+/******************************Class selector*****************************/
+
+.apple{
+  background-color: blue;
+}
+
+.whatsapp{
+  background-color: green;
+}
+
+.google{
+  background-color: red;
+}
+
+.circular{
+  border-radius: 150%;
+}
+
+/****************************id selector************************************/
+#heading{
+  color: #b83b5e;
+}
